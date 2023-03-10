@@ -1,16 +1,22 @@
 {
   "student": [
     {
-      "name": "Nguyen Van A",
-      "age": 18,
-      "address": "Hai Duong",
-      "id": 1
+      "name": "Đào Thu Trang",
+      "age": "24",
+      "address": "Hưng Yên",
+      "id": 2
+    },
+    {
+      "name": "Vũ Thế Huy",
+      "age": "25",
+      "address": "Hưng Yên",
+      "id": 3
     },
     {
       "name": "Nguyễn Trường Giang",
-      "age": "23",
-      "address": "ứd",
-      "id": 2
+      "age": "25",
+      "address": "Hưng Yên",
+      "id": 5
     }
   ]
 }
